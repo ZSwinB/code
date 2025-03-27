@@ -1,5 +1,6 @@
 
-# IK1332 Project: Sensor network for office premises(with BLE)
+# 这个项目可以实现蓝牙的伪mesh网络，或者使用传统的scatternet。实现方法是将数据信息通过生产商信息的保留字段传输，通过带有信息返回检测（一个设备不会重复发两条相同的信息）的广播进行组网。经过树莓派4b的实现效果良好。
+Sensor network for office premises(with BLE)
 
 ## Scatter Network
 
