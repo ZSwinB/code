@@ -1,4 +1,5 @@
 # Files for Project Assignment "NetPipe"
+This file creats a simple netpipe， you could set a VPN by just run netpipeclient.java and netpipeserver.java
 
 - `README.md` This file. It is in in Markdown format. You can view it as a text file, or use a Markdown preview tool (there are plenty). 
 - `NetPipeClient.java` is a working client for the NetPipe application, without security.
